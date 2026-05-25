@@ -35,7 +35,7 @@ expense-tracker/
 
 2. Clone this repository:
 ```bash
-git clone https://github.com/Zamin-the=Shadow/Python-Expense-Tracker.git
+git clone https://github.com/Zamin-the-Shadow/Python-Expense-Tracker.git
 ```
 3. Open the project folder
 
